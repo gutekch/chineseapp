@@ -1,0 +1,12 @@
+nav a.active{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    border:2px solid black;
+}
